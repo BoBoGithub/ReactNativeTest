@@ -5,6 +5,8 @@
 
 ##  2. Screen shot for Android
 
+<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/Y%5B(D%240T%601%7B%60BYJMT7%609%7B%24%7B9.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/X~22R%7BAF1BV%5BETI%25JX75ZAX.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/6%7DS%5B%60Y61W)QY%60P8XUL1VOWX.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%7BQ%40~BTV14%24%60PZN%7DTAIN%7BZS0.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/RMOTQRMF6BHUW_22U1%5BLQ~X.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/RMR5(2FY%25CU%7B3T%6081T(0RNU.png">
+<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/XH%7DAFN~GAD0~WH14I_V2XUW.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/B%60%5DK3(%5DH8%7B8%60ZL%24893C%40P1S.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/16PFBR~BJKY9~LT82B6GWXN.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%25P)K%5B%25KGPX%5BWA%5BM6RN(9TT8.png">
