@@ -70,7 +70,7 @@ $ react-native link
 5. **错误处理**
 ```
 相关组件：react-native-gesture-password
-解决办法：http://blog.sina.com.cn/s/blog_14ad54a500102xhkg.html
+解决办法：[http://blog.sina.com.cn/s/blog_14ad54a500102xhkg.html](http://blog.sina.com.cn/s/blog_14ad54a500102xhkg.html)
 ```
  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%24P0%7B5A6QPK(_D%40((%60UYQQWK.png">
 	
@@ -80,4 +80,4 @@ $ react-native run-android
 ```
 
 
-#### 备注：目前只调试好了Android版的，IOS的需要XCode环境支持，本人机器不给力装不上，所以就没适配IOS的
+#### 备注：目前只调试好了Android版的，IOS的需要XCode环境支持，本人机器不给力装不上，所以就没适配[I](http://www.xgsddl.com)OS的
