@@ -3,7 +3,7 @@ import { AppRegistry } from 'react-native';
 
 import RootScene from './src/RootScene';
 
-export default class TestMT04 extends PureComponent{
+export default class TestMT05 extends PureComponent{
 	render(){
 		return (
 			<RootScene />
@@ -11,4 +11,4 @@ export default class TestMT04 extends PureComponent{
 	}
 }
 
-AppRegistry.registerComponent('TestMT04', () => TestMT04);
+AppRegistry.registerComponent('TestMT05', () => TestMT05);
