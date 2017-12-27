@@ -13,6 +13,7 @@
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/RMR5(2FY%25CU%7B3T%6081T(0RNU.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/XH%7DAFN~GAD0~WH14I_V2XUW.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/B%60%5DK3(%5DH8%7B8%60ZL%24893C%40P1S.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/16PFBR~BJKY9~LT82B6GWXN.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%25P)K%5B%25KGPX%5BWA%5BM6RN(9TT8.png">
+<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/~86LQURN3K2%40(WQ%6065BU_V0.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/Y5E_%5BHPS%7BGVD%40XRLQ(7II5C.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%7B78%40%407A1%40KZ%25UJ7Z%40HDY086.png">  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/~3%40%40%7B49(Z9JZX6)%7B5%7B6BDGS.png">
 
 ## 3. 安装
