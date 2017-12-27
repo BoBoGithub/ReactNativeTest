@@ -5,4 +5,4 @@
 
 ##  2. Screen shot for Android
 
-<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/img/About/intro.jpg">
+<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/16PFBR~BJKY9~LT82B6GWXN.png">
