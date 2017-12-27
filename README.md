@@ -21,10 +21,13 @@
 ```
 $ react-native init TestMT05
 $ cd TestMT05
+$ pwd 
+$ /var/www/react/test/TestMT05
 $ react-native run-android
 ```
  执行完上边3步的效果如下：
  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/H%40~3%5DD8FE_(PN~F5T4E1D~N.png">
+
 
 2. **下载当前Git项目 并追加进第一步初始化的RN项目中**
 
@@ -33,3 +36,21 @@ $ git clone https://github.com/BoBoGithub/ReactNativeTest.git
 $ cd ReactNativeTest
 $ cp -r ./* /var/www/react/test/TestMT05
 ```
+
+3. **安装关联组件**
+
+```
+$ npm install react-navigation --save
+$ npm install react-native-code-push --save
+$ npm install react-native-device-info --save
+$ npm install react-native-contacts --save
+$ npm install react-native-modal-dropdown --save
+$ npm install react-native-scrollable-tab-view --save
+$ npm install react-native-gesture-password --save
+$ npm install react-native-image-picker --save
+$ npm install crypto-js --save
+```
+
+4. ** 错误处理 **
+	4.1 出现如下错误：
+	<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/H%40~3%5DD8FE_(PN~F5T4E1D~N.png">
