@@ -7,3 +7,4 @@
 
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/16PFBR~BJKY9~LT82B6GWXN.png">
 <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%25P)K%5B%25KGPX%5BWA%5BM6RN(9TT8.png">
+<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/6%7DS%5B%60Y61W)QY%60P8XUL1VOWX.png">
