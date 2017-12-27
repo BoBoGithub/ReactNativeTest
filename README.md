@@ -49,6 +49,8 @@ $ npm install react-native-scrollable-tab-view --save
 $ npm install react-native-gesture-password --save
 $ npm install react-native-image-picker --save
 $ npm install crypto-js --save
+
+$ react-native link
 ```
 
 4. **权限设置**
