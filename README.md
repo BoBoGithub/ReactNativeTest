@@ -53,7 +53,15 @@ $ npm install crypto-js --save
 
 4. **权限设置**
 ```
-修改文件：
+新增权限操作 修改文件：/var/www/react/test/TestMT05/android/app/src/main/AndroidManifest.xml
+	<!-- 新增 通讯录操作 -->
+	<uses-permission android:name="android.permission.READ_PROFILE" />
+	<uses-permission android:name="android.permission.READ_CONTACTS" />
+	<uses-permission android:name="android.permission.WRITE_CONTACTS" />
+	
+	<!-- 新增 照片操作 -->
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
 
 5. **错误处理**
@@ -61,5 +69,12 @@ $ npm install crypto-js --save
 	相关组件：react-native-gesture-password
 	解决办法：http://blog.sina.com.cn/s/blog_14ad54a500102xhkg.html
 ```
-	<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%24P0%7B5A6QPK(_D%40((%60UYQQWK.png">
+ <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%24P0%7B5A6QPK(_D%40((%60UYQQWK.png">
 	
+6. **重新运行一下 就看到界面了**
+```
+$ react-native run-android
+```
+
+
+## 备注：目前只调试好了Android版的，IOS的需要XCode环境支持，本人机器不给力装不上，所以就没适配IOS的
