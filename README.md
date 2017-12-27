@@ -52,10 +52,14 @@ $ npm install crypto-js --save
 ```
 
 4. **权限设置**
-##### 修改文件：
+```
+修改文件：
+```
 
 5. **错误处理**
-	<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%24P0%7B5A6QPK(_D%40((%60UYQQWK.png">
-	
+```
 	相关组件：react-native-gesture-password
 	解决办法：http://blog.sina.com.cn/s/blog_14ad54a500102xhkg.html
+```
+	<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%24P0%7B5A6QPK(_D%40((%60UYQQWK.png">
+	
