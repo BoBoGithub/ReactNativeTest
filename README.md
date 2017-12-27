@@ -52,7 +52,7 @@ $ npm install crypto-js --save
 ```
 
 4. **错误处理**
-	4.1 出现如下错误：
+### 4.1 出现如下错误：
 	<img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/%24P0%7B5A6QPK(_D%40((%60UYQQWK.png">
 	
 	解决办法：http://blog.sina.com.cn/s/blog_14ad54a500102xhkg.html
