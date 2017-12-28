@@ -41,6 +41,7 @@ $ cp -r ./* /var/www/react/test/TestMT05
 3. **安装关联组件**
 
 ```
+$ cd /var/www/react/test/TestMT05
 $ npm install react-navigation --save
 $ npm install react-native-code-push --save
 $ npm install react-native-device-info --save
