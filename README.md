@@ -84,9 +84,11 @@ $ react-native run-android
 ```
 $ 配置Nginx指向 /var/www/
 $ 创建后端程序存放目录 mkdir /var/www/react/data/TestMT01/
+$ pwd
+$ /var/www/react/test/ReactNativeTest
 $ cp ./index.php /var/www/react/data/TestMT01/
 $ 创建图片上传目录 mkdir /var/www/react/data/TestMT01/img
-$ 然后刷新App登录/注册就能看到请求日志
+$ 然后刷新App登录/注册就能看到请求日志 tail -f /var/www/react/data/TestMT01/access.log
 $ 备注：注册时的短信验证码 默认是：abc123
 ```
  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/~3%40%40%7B49(Z9JZX6)%7B5%7B6BDGS.png">
