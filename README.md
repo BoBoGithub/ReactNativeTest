@@ -90,7 +90,7 @@ $ cp ./index.php /var/www/react/data/TestMT01/
 $ 创建后端程序存放目录 mkdir /var/www/react/data/TestMT01/
 $ 创建后端图片上传目录 mkdir /var/www/react/data/TestMT01/img
 $ 然后刷新App登录/注册就能看到请求日志 tail -f /var/www/react/data/TestMT01/access.log
-$ 备注：注册时的短信验证码 默认是：abc123   | 登录密码 默认是：123456
+$ 备注：注册时的短信验证码 默认是：abc123   | 登录用户名/密码 默认是：user001/123456
 ```
  <img src="https://github.com/BoBoGithub/ReactNativeTest/blob/master/src/images/~3%40%40%7B49(Z9JZX6)%7B5%7B6BDGS.png">
 
