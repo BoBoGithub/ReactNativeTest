@@ -1,6 +1,6 @@
 # ReactNative的组件及相关功能使用
 
-#### 备注：代码只提交了js/img/php的部分，原ReactNative部分下边会从初始化开始按步骤加进来，相关环境搭建自己解决
+#### 备注：代码只提交了js/img/php的部分，原ReactNative部分下边会从初始化开始按步骤加进来，相关环境搭建自己解决。
 
 ## 1. 涉及到的组件
 获取设备信息、获取通讯录信息、上传图片、热更新[code-push]、AES数据加密、本地存储[AsyncStorage]、绘制手势曲线、下拉Select框选择、WebView加载H5, Fetch[async/await]拉取数据 等相关组件应应用
